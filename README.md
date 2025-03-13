@@ -1,4 +1,4 @@
-# Bot del canbio climatico
+# Bot del cambio climatico
 este proyecto es un chat bot que implementa la inteligensia artificial y procesamento de imagenes, ademas de ressponder preguntas es capas de reconocer imagenes
 # Comandos de el un chat bot
 - /hola este comando es para que te salude y deuna pequeña descripcion de las funcionalidads del bot
